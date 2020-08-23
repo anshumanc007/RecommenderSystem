@@ -1,4 +1,4 @@
-# RecommenderSyestem
+# RecommenderSystem
 
 A Data Science Project
 
